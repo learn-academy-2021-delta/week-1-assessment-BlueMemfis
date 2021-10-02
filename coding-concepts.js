@@ -8,29 +8,29 @@
 // --------------------1) What will this log?
 
 var cohort = "Delta 2021"
-// console.log(cohort.length)
+console.log(cohort.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:10
+// b) Verify and explain: I just added every thing from D to 1.
 
 
 // --------------------2) What will this log?
 
 var greeting = "Hello World!"
-// console.log(greeting[3])
+console.log(greeting[3])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: l
+// b) Verify and explain: 3 is the third character
 
 
 // --------------------3) What will this log?
 
 var languages = ["JavaScript", "Ruby", "Python", "C++"]
 var index = 1
-// console.log(languages[index])
+console.log(languages[index])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: Ruby
+// b) Verify and explain: index 1 in this array is Ruby
 
 
 // --------------------4) What will this log?
@@ -38,14 +38,14 @@ var index = 1
 var weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: some type of error...lol yall almost got me
+// b) Verify and explain: im not sure why but i think its because .toUpperCase is not a function
 
 
 // --------------------5) What will this log?
 
 var dataTypes = ["number", "string", "Boolean"]
-// console.log(typeof dataTypes.length)
+console.log(typeof dataTypes.length)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: 3
+// b) Verify and explain: I completely skipped over the typeof...the object is a number
